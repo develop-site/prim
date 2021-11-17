@@ -7020,6 +7020,8 @@ ul.dots-text {
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease; }
+  .menu-block-text__item:not(:last-child) {
+    margin-bottom: 10px; }
 
 .menu-block-text__name {
   font-size: 14px;
